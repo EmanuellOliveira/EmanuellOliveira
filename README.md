@@ -12,7 +12,7 @@ Redes Socias:
 
 ## ⚡ Technologies
 
-Como estou començando agora aqui está o inicio de tudo:
+Como estou començando agora, aqui está o inicio de tudo:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
